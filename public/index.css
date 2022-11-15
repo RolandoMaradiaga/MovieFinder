@@ -2,6 +2,9 @@ h1 {
     color: red
 }
 
-.title{
-    color: red;
+body {
+    background-image: url("../images/back2.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+
 }
