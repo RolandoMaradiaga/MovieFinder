@@ -29,3 +29,66 @@ body {
     
 }
 
+.login{
+    position: absolute;
+    width: 445px;
+    height: 570px;
+    left: 34.5%;
+    right:34.5%;
+    top: 160px;
+    background: rgba(49, 49, 49, 0.95);
+    box-shadow: 0px 6px 6px rgba(11, 11, 11, 0.8);
+    border-radius: 10px;
+}
+
+.input0{
+position: absolute;
+left: 10.58%;
+top: 16.93%;
+width: 355.11px;
+height: 37.19px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.input0::placeholder {
+    position: absolute;
+     opacity: .5;
+     left:2%;
+     top:28%;
+     color: #BCBCBC;
+     font-family: 'Open Sans';
+     font-style: normal;
+     font-weight: 400;
+   
+ }
+
+ .input1{
+    position: absolute;
+    left: 10.58%;
+    top: 25.84%;
+    width: 355.11px;
+    height: 37.19px;
+    
+    background: #FFFFFF;
+    border-radius: 5px;
+    }
+.input1::placeholder {
+        position: absolute;
+         opacity: .5;
+         left:2%;
+         top:28%;
+         color: #BCBCBC;
+         font-family: 'Open Sans';
+         font-style: normal;
+         font-weight: 400;
+       
+     }
+.ellipse{
+
+        position: absolute;
+        top:28.2%;
+        left: 82.5%;
+        
+        }
