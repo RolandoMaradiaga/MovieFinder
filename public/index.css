@@ -1,6 +1,4 @@
-h1 {
-    color: red
-}
+
 
 body {
     background-image: url("../images/back2.png");
@@ -8,3 +6,26 @@ body {
     background-size:cover;
 
 }
+.moviefinder{
+    position: absolute;
+    left: 41%;
+  
+    top: 8.89%;
+    bottom: 87.16%;
+
+
+}
+
+.title{
+    position: absolute;
+    left: 5.17%;
+    
+    top: 7.7%;
+    bottom: 70.52%;
+    color:white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
